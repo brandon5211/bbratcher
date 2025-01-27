@@ -1,2 +1,2 @@
-# b-bratcher.com
-repository for my website (b-bratcher.com)
+# r-bratcher.com
+repository for my website (r-bratcher.com)
